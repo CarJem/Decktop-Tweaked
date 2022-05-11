@@ -33,8 +33,8 @@ steam.styles
     buttontextactive=Text
 
     // cool we can define font-families here as well
-    basefont="Noto Sans"
-    basefont="Noto Sans" [$OSX]
+    basefont="Noto Sans" //original: Arial
+    basefont="Noto Sans" [$OSX] //original: Helvetica
 
     // new control colors
     ButtonFace="98 108 119 20"
