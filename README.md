@@ -1,3 +1,6 @@
-# DeckTweak-Desktop [THEME]
+# Decktop-Tweaked [Steam Skin]
 
-A Theme for Valve's Steam Client to Improve the Scaling / Font Family of the Overal Theme on their Steam Deck
+A Skin for Steam's Desktop Client, Designed for Steam Deck.
+- Minimal Modifications to ensure easy updates and better compatibility
+- Enforces Noto Sans instead of Monospace
+- Reduced global font scale a tad to be more breathable
