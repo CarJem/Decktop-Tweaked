@@ -360,7 +360,7 @@ steam.styles
 	  Button
 	  {
 		font-family=basefont
-		font-size=11 //original: 13
+		font-size=10 //original: 13
 		font-weight=400
 		textcolor="Text"
 		font-style=uppercase
